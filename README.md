@@ -8,10 +8,9 @@ Un greffon léger et mignon (style kawaii) pour **Anki** qui calcule et affiche 
 
 ## Fonctionnalités
 
-* **Calcul dynamique de la série (Streak) :** Analyse votre historique de révision (`revlog`) en prenant en compte le décalage horaire d'Anki.
-* **Bannière dynamique :** Affiche un message d'encouragement personnalisé selon si vous avez déjà révisé aujourd'hui ou non.
-* **Style Kawaii :** Design doux et animations fluides (pulsation du feu) directement intégrés à l'interface d'accueil.
-* **Hook Officiel Anki :** Utilise `deck_browser_will_render_content` pour une intégration propre et sans conflit.
+* Calcul dynamique de la série (Streak) : Analyse votre historique de révision en prenant en compte le décalage horaire d'Anki.
+* Bannière dynamique : Affiche un message d'encouragement personnalisé selon si vous avez déjà révisé aujourd'hui ou non.
+* Style kawaii
 
 ---
 
